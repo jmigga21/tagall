@@ -11,4 +11,4 @@
 
 ➖➖➖➖➖➖➖➖➖➖
 
-🔗Установка: .dlmod https://raw.githubusercontent.com/jmigga21/tagall/main/Tags.py
+🔗Установка: <pre>.dlmod https://raw.githubusercontent.com/jmigga21/tagall/main/Tags.py</pre>
